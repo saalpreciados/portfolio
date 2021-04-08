@@ -6,7 +6,11 @@ At the age of seven, I moved to Valencia (Spain), where I resided and pursued my
 Since 2018, I am living in Japan, studying at [Tsukuba University](https://www.tsukuba.ac.jp/en/).
 
 ## Education background
-#### 2014-2018
+**2014-2018**
+[Universidad de Valencia](https://www.uv.es/uvweb/fisica/es/facultad-fisica-1285850062061.html)
+Degree in Physics. Graduation thesis about combination of satelite images.
+
+####
 
 ### Markdown
 
