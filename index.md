@@ -1,8 +1,9 @@
 # Manuel Saal Preciados
 
-You can use the [editor on GitHub](https://github.com/saalpreciados/saalpreciados.portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+My name is Manuel, 24 years old, born in München (Germany). 
+At the age of seven, I moved to Valencia (Spain), where I resided and pursued my elementary, middle and higher education.
+Since 2018, I am living in Japan, studying at Tsukuba University(https://www.tsukuba.ac.jp/en/).
 
 ### Markdown
 
