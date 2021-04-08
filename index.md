@@ -7,8 +7,8 @@ Since 2018, I am living in Japan, studying at [Tsukuba University](https://www.t
 
 ## Education background
 **2014-2018**
-[Universidad de Valencia](https://www.uv.es/uvweb/fisica/es/facultad-fisica-1285850062061.html)
-Degree in Physics. Graduation thesis about combination of satelite images.
+Universidad de Valencia. 
+Degree in Physics. Graduation thesis about combination of satelite images. [[web](https://www.uv.es/uvweb/fisica/es/facultad-fisica-1285850062061.html)]
 
 ####
 
