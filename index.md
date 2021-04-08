@@ -5,6 +5,9 @@ My name is Manuel, 24 years old, born in München (Germany).
 At the age of seven, I moved to Valencia (Spain), where I resided and pursued my elementary, middle and higher education.
 Since 2018, I am living in Japan, studying at [Tsukuba University](https://www.tsukuba.ac.jp/en/).
 
+## Education background
+#### 2014-2018
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
