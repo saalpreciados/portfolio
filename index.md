@@ -3,12 +3,13 @@
 ## About me
 My name is Manuel, 24 years old, born in München (Germany). 
 At the age of seven, I moved to Valencia (Spain), where I resided and pursued my elementary, middle and higher education.
-Since 2018, I am living in Japan, studying at [Tsukuba University](https://www.tsukuba.ac.jp/en/).
+Since 2018, I am living in Japan, studying at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/).
 
 ## Education background
 **2014-2018**
 Universidad de Valencia. 
 Degree in Physics. Graduation thesis about combination of satelite images. [[web](https://www.uv.es/uvweb/fisica/es/facultad-fisica-1285850062061.html)]
+**2018-2021** University of Tsukuba. School of International and Social Studies (TISS program). Focusing on International Relations, Cooperation and Security. [[web](http://www.global.tsukuba.ac.jp/%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6%E7%BE%A4)]
 
 ####
 
