@@ -15,20 +15,20 @@ School of International and Social Studies (TISS program). Focusing on Internati
 
 ## Skills and aptitudes 
 
-|  **Languages**  | **Software** |      
-|-------------|--------------|
-|  German      |   Microsoft Office           |
-|  Spanish      |       Sony Vegas        |
-|  English      |      Python        |
-|  Catalan      |        C++      |
-|  Japanese     |              |
-|  Korean       |              |
-|  French       |              |
+### Languages
+- **Spanish**: Native Proficency  
+- **German**: Native Proficency
+- **Catalan**: Native Proficency
+- **English**: Fluent  Proficency
+- **Japanese**: Medium Proficency
+- **Korean**: Basic Level
+- **French**: Basic Level
 
-
-- 
-- 
-- 
+### Software
+- M. Office
+- Sony Vegas
+- C++
+- Python
 
 ### Markdown
 
