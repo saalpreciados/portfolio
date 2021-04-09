@@ -13,17 +13,17 @@ Degree in Physics. Graduation thesis about combination of satelite images. [[uni
 **2018-2021** University of Tsukuba (Japan).
 School of International and Social Studies (TISS program). Focusing on International Relations, Cooperation and Security. [[university web](http://www.global.tsukuba.ac.jp/%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6%E7%BE%A4)]
 
-## Skills and aptitudes :metal:
+## Skills and aptitudes 
 
-|  Languages | | Software |      
-|-------------|--|--------------|
-|  German      | |   Microsoft Office           |
-|  Spanish     | |       Sony Vegas        |
-|  English     | |      Python        |
-|  Catalan     | |        C++      |
-|  Japanese    | |              |
-|  Korean      | |              |
-|  French      | |              |
+|  **Languages**  | **Software** |      
+|-------------|--------------|
+|  German      |   Microsoft Office           |
+|  Spanish      |       Sony Vegas        |
+|  English      |      Python        |
+|  Catalan      |        C++      |
+|  Japanese     |              |
+|  Korean       |              |
+|  French       |              |
 
 
 - 
