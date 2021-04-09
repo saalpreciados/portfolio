@@ -25,10 +25,10 @@ School of International and Social Studies (TISS program). Focusing on Internati
 - **French**: Basic Level
 
 ### Software
-- M. Office
-- Sony Vegas
-- C++
-- Python
+- **M. Office**
+- **Sony Vegas**
+- **C++**
+- **Python**
 
 ### Markdown
 
