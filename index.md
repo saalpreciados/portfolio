@@ -17,16 +17,16 @@ School of International and Social Studies (TISS program). Focusing on Internati
 
 | ### Languages | ### Software |      
 |---------------|--------------|
-|- German       |              |
-|- Spanish      |              |
-|- English      |              |
-|- Catalan      |              |
-|- Japanese     |              |
-|- Korean       |              |
-|- French       |              |
+|  German       |   Microsoft Office           |
+|  Spanish      |              |
+|  English      |              |
+|  Catalan      |              |
+|  Japanese     |              |
+|  Korean       |              |
+|  French       |              |
 
 
-- Microsoft Office
+- 
 - Sony Vegas 
 - Python & C++
 
