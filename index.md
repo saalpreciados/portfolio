@@ -1,9 +1,10 @@
 # Manuel Saal Preciados
 
 ## About me
-My name is Manuel, 24 years old, born in München (Germany). 
-At the age of seven, I moved to Valencia (Spain), where I resided and pursued my elementary, middle and higher education.
-Since 2018, I am living in Japan, studying at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/).
+My name is Manuel, born in München (Germany) in 1996. 
+At the age of seven I moved to Valencia (Spain), where I resided and pursued my elementary, middle and higher education until 2018.
+In 2018, I moved to Japan, studying at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/).
+Since 2021 I am residing in South Korea, studying and working at [Korea University](https://int.korea.edu/kuis/index.do)
 
 ## Education background
 **2014-2018**
